@@ -1,4 +1,4 @@
-# Ethical AI Detector
+# Ethical AI Analyser
 
 ## Project info
 
